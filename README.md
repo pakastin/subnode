@@ -1,5 +1,5 @@
 # subnode
-Child Node.js process which you can proxy to
+Child Node.js process which you can proxy to.
 
 ## install
 ```

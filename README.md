@@ -38,6 +38,8 @@ app.set('trust proxy', true);
 app.get('/', (req, res, next) => {
   res.send(`Hello from ${NODE_PORT} to ${req.ip}`);
 });
+
+app.listen(NODE_PORT);
 ```
 
 ## How does it work?

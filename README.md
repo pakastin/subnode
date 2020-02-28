@@ -43,4 +43,4 @@ app.listen(NODE_PORT);
 ```
 
 ## How does it work?
-When you create "subnode", it gets [forked](https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options) with a random port number and add NODE_PORT environment value.
+When you create "subnode", it gets [forked](https://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options) with a random port number and included with NODE_PORT environment value.

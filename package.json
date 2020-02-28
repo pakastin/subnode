@@ -1,11 +1,11 @@
 {
   "name": "subnode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Child Node.js process which you can proxy to",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Juha Lindstedt",
   "license": "ISC"
 }
